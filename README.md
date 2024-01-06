@@ -157,4 +157,4 @@ spec:
  
   ```
 
-- Make a commit to this [file](/k8s/base/kustomization.yaml), in order to update v1 to v2..
+- Make a commit to this [file](/k8s/base/kustomization.yaml), in order to update v1 to v2.
